@@ -1,4 +1,4 @@
-# PixLab Activities googleForms
+# PixLab Activity Submissions
 *Enter your answers to questions and code for exercises in the following googleForms:*
 
 * [A1 Questions: Intro to Digital Pictures](https://docs.google.com/forms/d/e/1FAIpQLSe9N2edL_FiTbsCcZbmz6Rs2y9to39xed0sCC8fctp8pUfbuQ/viewform)
