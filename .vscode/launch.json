@@ -1,11 +1,5 @@
 {
     "configurations": [
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - PictureTester",
-            "request": "launch",
-            "mainClass": "PictureTester",
-            "projectName": "PixLabBianchi"
-        }
+
     ]
 }
