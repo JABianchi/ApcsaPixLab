@@ -1,7 +1,7 @@
 # PixLab Activities googleForms
 *Enter your answers to questions and code for exercises in the following googleForms:*
 
-* [A1 Questions: Intro to Digital Picdtures](https://docs.google.com/forms/d/e/1FAIpQLSe9N2edL_FiTbsCcZbmz6Rs2y9to39xed0sCC8fctp8pUfbuQ/viewform)
+* [A1 Questions: Intro to Digital Pictures](https://docs.google.com/forms/d/e/1FAIpQLSe9N2edL_FiTbsCcZbmz6Rs2y9to39xed0sCC8fctp8pUfbuQ/viewform)
 * [A2 Questions: Picking a Color](https://docs.google.com/forms/d/e/1FAIpQLSeEC_DDd0rufP4d2y0xfzR6rkCTkPBrVk5fRqO4GCgL6o3_kg/viewform)
 * [A3 Questions & Exercises: Exploring a Picture](https://docs.google.com/forms/d/e/1FAIpQLSecLpJJ_lkRkaNkuzTOI7ii1ogV2HDzZAMTdTwSSz4nvH6keg/viewform)
 * [A4 Exercises: 2D Arrays in Java](https://docs.google.com/forms/d/e/1FAIpQLSeRBgbjlCIEhhqq3v707Pt7srQIzYjbBJis4Hf7ULNbmxt4_A/viewform)
