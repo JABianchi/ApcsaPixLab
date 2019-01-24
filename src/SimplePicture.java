@@ -136,7 +136,35 @@ public class SimplePicture implements DigitalPicture
  }
  
  ////////////////////////// Methods //////////////////////////////////
- 
+
+ public boolean equals(Picture other) {
+     if (other == null) {
+         return false;
+     }
+     BufferedImage otherImage = other.getBufferedImage();
+     if (bufferedImage == otherImage) {
+         return true;
+     } else if (bufferedImage == null) {
+         return false;
+     }
+     int w = bufferedImage.getWidth();
+     int h = bufferedImage.getHeight();
+     if (w != otherImage.getWidth() ||
+         h != otherImage.getHeight()) {
+         return false;
+     }
+
+     for (int row=0; row<h; ++row) {
+         for (int col=0; col<w; ++col) {
+             if (bufferedImage.getRGB(col,row) != otherImage.getRGB(col,row)) {
+                 return false;
+             }
+         }
+     }
+     return true;
+ }
+
+
  /**
   * Method to get the extension for this picture
   * @return the extendsion (jpg, bmp, giff, etc)
