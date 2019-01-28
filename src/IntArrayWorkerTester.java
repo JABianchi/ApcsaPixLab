@@ -1,4 +1,4 @@
-public class IntArrayWorkerTester
+public class IntArrayWorkerTester 
 {
   /** method to test setMatrix */
   public static void testSetMatrix()

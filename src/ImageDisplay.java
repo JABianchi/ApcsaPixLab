@@ -7,8 +7,7 @@ import java.awt.image.*;
  * 
  * @author Barb Ericson ericson@cc.gatech.edu
  */
-public class ImageDisplay extends JPanel implements Scrollable
-{
+public class ImageDisplay extends JPanel implements Scrollable {
   
   /////////////////////////// fields (attributes ///////////////////////////
   /** the image to draw */

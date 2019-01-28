@@ -82,12 +82,11 @@ public class PictureTester
 
   /** Main method for testing.  Every class can have a main
     * method in Java */
-  public static void main(String[] args)
-  {
+  public static void main(String[] args) { 
     // uncomment a call here to run a test and comment
     // out the ones you don't want to run
     
-    testZeroBlue();
+    testZeroBlue(); 
     //testKeepOnlyBlue();
     //testKeepOnlyRed();
     //testKeepOnlyGreen();
@@ -106,5 +105,6 @@ public class PictureTester
     //testCopy();
     //testEdgeDetection();
     //testEdgeDetection2();
+
   }
 }

@@ -14,7 +14,7 @@ import java.awt.geom.*;
  * 
  * @author Barb Ericson ericson@cc.gatech.edu
  */
-public class SimplePicture implements DigitalPicture
+public class SimplePicture implements DigitalPicture 
 {
   
   /////////////////////// Fields /////////////////////////

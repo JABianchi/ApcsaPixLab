@@ -5,7 +5,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.Scanner;
 
-public class ResultsComparator {
+public class ResultsComparator  {
 
     public static void log(String s) {
     //    System.out.println(s);

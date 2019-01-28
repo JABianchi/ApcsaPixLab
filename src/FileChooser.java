@@ -11,8 +11,7 @@ import java.net.*;
  * 
  * @author Barb Ericson ericson@cc.gatech.edu
  */
-public class FileChooser 
-{
+public class FileChooser {
   
   /////////////////////// methods /////////////////////////////
   

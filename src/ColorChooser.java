@@ -9,8 +9,7 @@ import java.awt.Color;
  * 
  * @author Barb Ericson ericson@cc.gatech.edu
  */
-public class ColorChooser 
-{
+public class ColorChooser {
   
   /**
    * Method to let the user pick a color and return
